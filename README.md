@@ -10,3 +10,6 @@ First, run the data.js script to store the data in employeeData.json:
 
 bash
 Next, run the readData.js script to read and use the data:
+![2](https://github.com/subhashkumar-1234/SubhashExp4/assets/129883154/ec9b3781-1a34-4063-a4d2-be879b504b4b)
+![1](https://github.com/subhashkumar-1234/SubhashExp4/assets/129883154/abbb27c1-37a7-4812-b4b9-08d170ea8e04)
+
